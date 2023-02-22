@@ -1,0 +1,15 @@
+C:\Users\julio\source\repos\Serviços e entidades\obj\Debug\net6.0\Serviços e entidades.csproj.AssemblyReference.cache
+C:\Users\julio\source\repos\Serviços e entidades\obj\Debug\net6.0\Serviços e entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julio\source\repos\Serviços e entidades\obj\Debug\net6.0\Serviços e entidades.AssemblyInfoInputs.cache
+C:\Users\julio\source\repos\Serviços e entidades\obj\Debug\net6.0\Serviços e entidades.AssemblyInfo.cs
+C:\Users\julio\source\repos\Serviços e entidades\obj\Debug\net6.0\Serviços e entidades.csproj.CoreCompileInputs.cache
+C:\Users\julio\source\repos\Serviços e entidades\bin\Debug\net6.0\Serviços e entidades.exe
+C:\Users\julio\source\repos\Serviços e entidades\bin\Debug\net6.0\Serviços e entidades.deps.json
+C:\Users\julio\source\repos\Serviços e entidades\bin\Debug\net6.0\Serviços e entidades.runtimeconfig.json
+C:\Users\julio\source\repos\Serviços e entidades\bin\Debug\net6.0\Serviços e entidades.dll
+C:\Users\julio\source\repos\Serviços e entidades\bin\Debug\net6.0\Serviços e entidades.pdb
+C:\Users\julio\source\repos\Serviços e entidades\obj\Debug\net6.0\Serviços e entidades.dll
+C:\Users\julio\source\repos\Serviços e entidades\obj\Debug\net6.0\refint\Serviços e entidades.dll
+C:\Users\julio\source\repos\Serviços e entidades\obj\Debug\net6.0\Serviços e entidades.pdb
+C:\Users\julio\source\repos\Serviços e entidades\obj\Debug\net6.0\Serviços e entidades.genruntimeconfig.cache
+C:\Users\julio\source\repos\Serviços e entidades\obj\Debug\net6.0\ref\Serviços e entidades.dll
